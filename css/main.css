@@ -1,0 +1,3 @@
+/* Import aller CSS Styles aus dem Ordner CSS */
+@import url(global.css);
+@import url(components.css);
