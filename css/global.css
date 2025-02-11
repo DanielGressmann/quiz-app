@@ -1,0 +1,15 @@
+/* Alle Haupteigenschaften */
+
+body {
+  font-family: "garamond", sans-serif;
+  background-color: aliceblue;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-family: "garamond", monospace;
+  background-color: antiquewhite;
+  text-align: center;
+  padding: 20px;
+}
